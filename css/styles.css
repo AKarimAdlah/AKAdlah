@@ -1,0 +1,275 @@
+body{
+  /* background-image: url("https://images3.alphacoders.com/329/thumb-1920-3297.jpg");
+  background-repeat: no-repeat; */
+   text-align: center; 
+  font-family: 'Shadows Into Light', cursive; 
+  font-size: 30px;}
+h2{
+font-size: 55px;
+}
+
+#button1 {
+    border-top: 1px solid #bd5404;
+    background: #030303;
+    background: -webkit-gradient(linear, left top, left bottom, from(#569c3e), to(#030303));
+    background: -webkit-linear-gradient(top, #569c3e, #030303);
+    background: -moz-linear-gradient(top, #569c3e, #030303);
+    background: -ms-linear-gradient(top, #569c3e, #030303);
+    background: -o-linear-gradient(top, #569c3e, #030303);
+    padding: 20px 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 24px;
+    font-family: Georgia, Serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+ #button1:hover {
+    border-top-color: #362b03;
+    background: #362b03;
+    color: #ccc;
+    }
+ #button1:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    }
+
+    .btn2 {
+        background: #048008;
+        background-image: -webkit-linear-gradient(top, #048008, #d18b13);
+        background-image: -moz-linear-gradient(top, #048008, #d18b13);
+        background-image: -ms-linear-gradient(top, #048008, #d18b13);
+        background-image: -o-linear-gradient(top, #048008, #d18b13);
+        background-image: linear-gradient(to bottom, #048008, #d18b13);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        -webkit-box-shadow: 0px 10px 11px #000000;
+        -moz-box-shadow: 0px 10px 11px #000000;
+        box-shadow: 0px 10px 11px #000000;
+        font-family: Georgia;
+        color: #e3e3e3;
+        font-size: 30px;
+        padding: 4px 16px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn2:hover {
+        background: #4bb010;
+        background-image: -webkit-linear-gradient(top, #4bb010, #825108);
+        background-image: -moz-linear-gradient(top, #4bb010, #825108);
+        background-image: -ms-linear-gradient(top, #4bb010, #825108);
+        background-image: -o-linear-gradient(top, #4bb010, #825108);
+        background-image: linear-gradient(to bottom, #4bb010, #825108);
+        text-decoration: none;
+      }
+
+#homeHeading {
+
+    font-size: 75px;
+    color: green
+
+
+}
+
+#resourceSites {
+
+color: white;
+background: black;
+opacity: .8;
+
+}
+.hero {
+    font-size: 55px;
+    text-align: center;
+    margin: 35px;
+  }
+
+#bg {
+    background-image: url("./../images/5409237-military-wallpapers.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+        }
+
+#homeBackground {
+    background-image: url("./../images/homeBackground.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+background-size: cover;
+
+}
+
+
+
+#aboutBackground {
+
+  background-image: url("./../images/aboutBackground.jpg");
+  
+  background-repeat: no-repeat;
+  
+background-size: cover;
+}
+
+#resourcesBackground {
+    background-image: url("./../images/resourcesBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+background-size: cover;
+
+}
+
+
+#jobsBackground {
+   
+    background-image: url("./../images/jobsBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+background-size: cover;
+
+}
+
+.userSignUp {
+    background-color: #e5dfc3;
+    opacity: .9;
+    width: 90%;
+    margin: 0 auto;
+     
+}
+
+.customNav {
+    height: 100px;
+    background-color: black;
+    padding-top: 36px;
+    padding-left: 30px;
+    opacity: .7
+  }
+  
+  .customNavItems a {
+    display: inline;
+    color: white;
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .customNavItems a:hover {
+    text-decoration: none;
+    opacity: .7;
+  }
+  
+  .customNavItems li {
+    display: inline;
+  }
+
+  .contentContainer {
+    width: 25%;
+    margin: 0 auto;
+  }
+
+  #aboutHeader{
+
+    font-size: 72px;
+  }
+  .center-button {
+    margin: auto;
+  }
+  
+
+  /*show*/
+
+.showSection {
+    clear: both;
+  }
+  
+
+  .showHeader {
+    background-color: #bbb;
+    height: 100px;
+  }
+  
+  .showHeading {
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    font-weight: 600;
+  }
+  
+  .showBody {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 40px;
+    word-wrap: break-word;
+    height: 500px;
+  }
+
+  .jobTop {
+
+    background-color: black;
+    opacity: .9;
+
+  }
+
+  .jobHeader {
+    background-color: #bbb;
+    height: auto;
+  }
+  
+  .jobHeading {
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    font-weight: auto;
+  }
+  
+  .jobBody {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 40px;
+    word-wrap: break-word;
+    height: 1790;
+  }
+
+  .jobHeadingBG{
+color: white;
+
+  }
+
+  #gogoBackground {
+
+  
+      
+       background-image: url("./../images/gogoBackground.jpg");
+       background-repeat: no-repeat;
+       background-size: 100% 100%;
+   background-size: cover;
+   
+   
+  }
+
+  #gogoHeading {
+
+    color: white;
+    font-size: 72px;
+  }
+
+  #mvpHeader {
+
+color: white;
+
+  }
+
+  #mvpText {
+    color:white;
+  }

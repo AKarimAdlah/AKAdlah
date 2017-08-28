@@ -1,0 +1,33 @@
+<div class="container">
+  
+    <h1 class="hero">Edit Site</h1>
+  
+    <div class="row">
+     
+  
+      <div class="form-group col-md-6">
+        <label>Website Name</label>
+        <input type="text" class="form-control" placeholder="Warriors, Inc..." ng-model="site.name">
+      </div>
+  
+      <div class="form-group col-md-6">
+        <label>Website Url:</label>
+        <input type="text" class="form-control" placeholder="http://www.vets.org" ng-model="site.url">
+      </div>
+  
+      <div class="form-group col-md-4">
+        <label>twitter</label>
+        <input type="text" class="form-control" placeholder="http://twitter.com/sbogucki12" ng-model="site.url">
+      </div>
+  
+      <div class="form-group col-md-4">
+        <label>facebook</label>
+        <input type="text" class="form-control" placeholder="https://www.facebook.com/sbogucki12" ng-model="site.facebook">
+      </div>
+  
+      <button ng-show="submitButton" ng-click="addUser()" class="btn btn-primary btn-lg pull-right cbtn">Submit</button>
+      <button class="btn btn-info" ng-click="updateSite(site)">Update</button></a>
+    </div>
+  
+  </div><!-- Container End -->
+  

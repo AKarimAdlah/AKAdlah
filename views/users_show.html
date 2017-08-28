@@ -1,0 +1,29 @@
+<div class="container">
+
+  <h2>User Account</h2>
+
+  <div class="contentContainer">
+
+    <div class="showContainer">
+      <div class="showHeader">
+        <h1 class="showHeading">{{ user.firstName }} {{ user.lastName }}</h1>
+      </div>
+      <div class="showBody">
+        <p><strong>Username:</strong> {{ user.userName }}</p>
+        <p><strong>Password:</strong> {{ user.passWord }}</p>
+        <p><strong>Confirm Password</strong> {{ user.confirmPassword }}</p>
+        <p><strong>DOB:</strong> {{ user.dob | date: 'MM/dd/yyyy'}}</p>
+        <p><strong>Email:</strong> {{ user.email }}</p>        
+        <p><strong>Phone:</strong> {{ user.phone }}</p>
+        <p><strong>Address:</strong> {{ user.street1 }}</p>
+        <p><strong>City:</strong> {{ user.city }}</p>
+        <p><strong>State:</strong> {{ user.state }}</p>
+        <p><strong>Zip:</strong> {{ user.zip }}</p>
+        <!-- <a ui-sref="showUser({id: {{ user.id }} })"><button class="btn btn-primary">View</button></a> -->
+        <a ui-sref="editUser({id: {{ user.id }} })"><button class="btn btn-info">Update</button></a>
+        <button ng-click="deleteUser()" class="btn btn-danger">Delete Account</button>
+      </div>
+    </div>
+  </div>
+
+</div>

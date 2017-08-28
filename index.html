@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="vetApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Vet Connect</title>
+
+  <!-- Google Font - Open Sans -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+
+  <!-- Bootstrap CDN 3.3.7 -->
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="./css/styles.css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+
+
+  <!-- Angular CDN 1.5.7 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.7/angular.min.js"></script>
+
+  <!-- Angular UI Router CDN 0.4.2 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.4.2/angular-ui-router.min.js"></script>
+
+  <!--Google API -->
+  <script src="./services/ng-map.min.js"></script>
+  <script src="API_KEY"></script>
+</head>
+<body>
+
+<div class="customNav">
+  <ul class="customNavItems">
+    <li><a ui-sref="home">Home</a></li>
+    <li><a ui-sref="about">About</a></li>
+   
+      <li><a ui-sref="resources">Resources</a></li>
+    <li><a href="http://vetconnect.boards.net/" target="_blank">Discussion</a></li>   
+    <li><a ui-sref="users">User Login</a></li>
+    
+     
+  </ul>
+</div>
+
+<div ui-view></div>
+
+<!-- Module -->
+<script type="text/javascript" src="./app.js"></script>
+
+<!-- Controllers -->
+<script type="text/javascript" src="./controllers/homeController.js"></script>
+<script type="text/javascript" src="./controllers/resourceController.js"></script>
+<script type="text/javascript" src="./controllers/aboutController.js"></script>
+<script type="text/javascript" src="./controllers/usersController.js"></script>
+<script type="text/javascript" src="./controllers/discussionController.js"></script>
+<script type="text/javascript" src="./controllers/jobsController.js"></script>
+<script type="text/javascript" src="./controllers/gogoController.js"></script>
+
+
+<!-- Services -->
+<script type="text/javascript" src="./services/usersService.js"></script>
+<script type="text/javascript" src="./services/resourceService.js"></script>
+<script type="text/javascript" src="./services/jobsService.js"></script>
+
+
+</body>
+</html>

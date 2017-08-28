@@ -1,0 +1,31 @@
+<div id="jobsBackground">
+    
+<div class="container">
+<div class="jobHeadingBG">
+  Search for your interest: 
+</div>
+  <input type='text' ng-model='searchText' placeholder="Flying, etc... " /><br>
+  <button ng-click="getJobs()">Get Jobs</button><br><br>
+
+<div class="col-md-4" ng-repeat="job in jobs | filter:searchText">
+    <div class="jobHeader">
+      <h1 class="jobHeading">{{ job.name }}</h1>
+    </div>
+    <div class="jobBody">
+      <p><strong>Description:</strong>{{ job.description }}</p>
+      <p><strong>Keywords:</strong> {{ job.keywords }}</p>
+      
+    </div>
+ 
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+

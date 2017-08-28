@@ -1,0 +1,30 @@
+
+<div id="resourcesBackground">
+<div class = "container"> 
+  <div class="row">
+    <h1>Click to Search for Jobs</h1>
+    <a ui-sref="jobs"><button class="btn2">Jobs</button></a>
+  </div><br><br>
+  
+
+           <ng-map center="current-location">
+          </ng-map>
+
+<center><h1 id="resourceSites">Useful Websites</h1></center>
+    <div class="col-md-4" ng-repeat="site in sites | filter: siteSearch">
+      <div class="showHeader">
+        <h1 class="showHeading">{{ site.name }}</h1>
+      </div>
+      <div class="showBody">
+        <p><strong>Website:</strong> {{ site.url }}</p>
+        <p><strong>twitter:</strong> {{ site.twitter }}</p>
+        <p><strong>facebook:</strong> {{ site.facebook }}</p>
+               <button class="btn btn-info btn-sm"  ui-sref="resourceEdit({id: {{ site.id }} })">Update</button>
+        <button class="btn btn-danger btn-sm" ng-click="deleteSite(site)">Delete</button>
+      </div>
+   
+
+  </div>
+
+</div>
+</div>

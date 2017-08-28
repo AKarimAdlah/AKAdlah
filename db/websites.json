@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "name": "Iraq and Afghanistan Veterans of America",
+    "url": "https://iava.org/",
+    "twitter": "https://twitter.com/iava",
+    "facebook": "https://www.facebook.com/IAVA.org/"
+},
+  {
+    "id": 1,
+    "name": "Vets For Freedom",
+    "url": "http://www.vetsforfreedom.org/",
+    "twitter": "https://twitter.com/VetsForFreedom",
+    "facebook": "https://www.facebook.com/VetsForFreedom/"
+    },
+  {
+    "id": 2,
+    "name": "Wounded Warrior Project",
+    "url": "https://support.woundedwarriorproject.org/",
+    "twitter": "https://twitter.com/wwp",
+    "facebook": "https://www.facebook.com/wwp/"
+  },
+  {
+    "id": 3,
+    "name": "Operation Code",
+    "url": "https://operationcode.org/",
+    "twitter": "https://twitter.com/operation_code?lang=en",
+    "facebook": "https://www.facebook.com/operationcode.org/"
+  },
+  {
+    "id": 4,
+    "name": "The American Legion",
+    "url": "https://support.legion.org",
+    "twitter": "https://twitter.com/AmericanLegion",
+    "facebook": "https://www.facebook.com/the.american.legion/"
+   
+  },
+
+  {
+    "id": 5,
+    "name": "Veterans of Foreign Wars",
+    "url": "https://heroes.vfw.org",
+    "twitter": "https://twitter.com/VFWHQ",
+    "facebook": "https://www.facebook.com/VFWFans/"
+  },
+
+  {
+    "id": 6,
+    "name": "AmVets",
+    "url": "http://amvetsnsf.org/nso/",
+    "twitter": "https://twitter.com/AMVETSNational",
+    "facebook": "https://www.facebook.com/AMVETSHQ/"
+  }
+]

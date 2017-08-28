@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "name": "Navy Corpsman",
+    "description": "Give fellow servicemembers routine, preventive and emergency health care. Help care for their families back home. Take part in relief missions, providing aid for hurricane or earthquake victims. Hospital Corpsmen provide top-notch medical and dental assistance to the men and women of America’s Navy.",
+    "keywords": "Medical, Medicine, Health, Healthcare, Medic, First Aid, Fitness, Doctor, Nurse, Paramedic"
+     },
+
+  {
+    "id": 1,
+    "name": "Infantryman",
+    "description": "The infantry is the main land combat force and backbone of the Army. They are responsible for defending our country against any threat by land, as well as capturing, destroying and repelling enemy ground forces.",
+    "keywords": "Combat, Action, Land Nav, Hiking, Shooting, Gun, Guns, Rifles, Rifle, Explosions, Recon, Fitness, Running, Camping, Weapon, Weapons"
+  
+  },
+  {
+    "id": 2,
+    "name": "Electrical Systems",
+    "description": "Every Air Force base and installation around the world requires electricity to operate successfully. Responsible for installing, repairing and maintaining this electrical network, Electrical Systems specialists ensure that our primary source of energy is always available. From space command communicating with our satellites to hospitals operating lifesaving equipment, every Air Force function depends on this crucial service provided by these experts",
+    "keywords": "Communication, Technology, Computer, Data, Electronics, Programming, Program, Code, Coding, Software, Cyber, Digital, Support, Hacking, Computers"
+    
+  },
+  {
+    "id": 3,
+    "name": "Marine Tank Commander",
+    "description": "2The M1A1 Tank Crewman performs various dutues incident to the operation and maintenaince of the tank, to include tactical employment, firing, and maneuvering.",
+    "keywords": "Armor, Combat, Mechanic, Equipment, Trucks, Engines, Driving, Navigation, Go Go Dancer"
+    
+  },
+  {
+    "id": 4,
+    "name": "Adminstrative Support",
+    "description": "Navy Yeomen (that’s what the Navy calls its office and administrative support professionals) are the ones who sort out details, keep records, and generally keep the Navy’s paperwork organized and in front of the right people. Yeomen are truly at the heart of Navy operations.",
+    "keywords": "Computers, Typing, Office, Data, Entry, Microsoft, Support, Records, File, Filing, Archive, Sorting, Writing, Bookkeeping, Accounting"
+    
+  },
+  {
+    "id": 5,
+    "name": "Nuclear Operations",
+    "description": "Submarines and aircraft carriers – the most imposing vessels in America’s Navy – rely on nuclear reactors as well as nuclear technicians, power plant operators and subsystems specialists to keep them running. These highly trained, hands-on professionals perform the complex technical functions that are at the core of sub and carrier capabilities. This involves everything from operating nuclear propulsion plant machinery to controlling auxiliary equipment that supports Naval reactors to maintaining various electronic, propulsion and weapons systems.",
+    "keywords": "Technology, Science, Physics, Power, Travel, School, Academic, Math, Top Secret, Clearance"
+    
+  },
+  {
+    "id": 6,
+    "name": "Helicopter Pilot",
+    "description": "Aviation officers coordinate/lead operations using Army helicopters: OH-58 Kiowa, UH-60 Black Hawk, CH-47 Chinook and the AH-64 Apache. These operations can haul troops and carry supplies, as well as provide quick-strike and long-range target engagement",
+    "keywords": "Flying, Flight, Combat, Recon, Aerospace, Aviation, Rockets, Missile, Search, Rescue"
+      },
+  {
+    "id": 7,
+    "name": "Jet Pilot",
+    "description": "The US Air Force employs some of the most advanced aircraft in the world to complete our missions and defend our country. Utilizing extraordinary skill and precision, Air Force Pilots push each aircraft’s limits with complete control. While successfully completing their missions is paramount, their role as leaders and character models, training and commanding crews, is just as important. These skilled professionals deploy around the world to wherever there’s a need as fighters, trainers, bombers, advisers and more.",
+    "keywords": "Flying, Flight, Combat, Recon, Aerospace, Aviation, Airplane, Rockets, Missile, Bombs, Test Pilot, Top Gun, Maverick, Goose, Dogfight"
+  },
+  {
+    "id": 8,
+    "name": "Cook / Chef",
+    "description": "Food service specialists, which are military occupational specialty (MOS) 3381, are involved in every aspect of food preparation, procurement, storage and distribution, in both garrison and field environments.",
+    "keywords": "Funding, Requisitioning, Purchasing, Food, Baking, Serving, Restaurant, Waiter, Waitress, Service, Support, Fry, Nutrition, Health, Fitness, Kitchen"
+  },
+  {
+    "id": 9,
+    "name": "Recruiter",
+    "description": "The recruiter must be thoroughly familiar with the enlistment process from applicant prospecting to preparation for recruit training. Recruiters work in an environment external to the normal Marine Corps post, station, and FMF environments. Typical functions of the recruiter include preliminary screening and administrative processing, scheduling physical examinations, completion of enlistment documents, and maintaining accurate records.",
+    "keywords": "Sales, Marketing, Advertising, People, Communication, Personality, Charisma, Charm, Career, Advice, Guidance, Support"
+  },
+  {
+    "id": 10,
+    "name": "Special Forces",
+    "description": "The missions Special Forces Soldiers undertake range from counterterrorism missions to unconventional warfare. Special Forces Soldiers may also be deployed to foreign regions to take part in humanitarian efforts.Z",
+    "keywords": "Green Beret, Spec Ops, Covert, Clandestine, Combat, Recon, SOCOM, Rambo, Black Ops, Secret, Top Secret, Classified, Elite, Fitness, Land Navigation, Hiking, Running, Guns, Gun, Weapons, Tactics, Strategy, Violence, Language"
+  },
+
+  {
+    "id": 11,
+    "name": "Intelligence Officer",
+    "description": "One of our most valuable assets on any mission or action is information. Responsible for both protecting our information as well as collecting data from external threats, Intelligence Officers are essential to operational planning and ultimate success. From analyzing data to coordinating with other services or determining the capabilities and vulnerabilities of an adversary, these highly trained officers provide indispensable knowledge pivotal to Airmen successfully completing their missions.",
+    "keywords": "Academic, School, Spy, Espionage, Computer, Technology, Language, Network, Tradecraft, Strategy"
+ 
+  },
+
+  {
+    "id": 12,
+    "name": "Scout Sniper",
+    "description": "The U.S. Marines Scout Sniper (0317) currently is a secondary MOS among Marines already qualified in Marine Infantry or Marine RECON units are trained to use precision rifle fire at selected targets from a concealed position. These actions are typically accomplished in any environment and long range with little support from other Marine or military assets. In support of combat operations, scout snipers are highly regarded in times of war, as they are Marines skilled in enemy surveillance, stealth and concealment, and marksmanship. Snipers can be easily deployed in urban population centers where the enemy is among the indigenous people and effectively engage individual targets without collateral damage on civilian lives or property.",
+    "keywords": "Weapons, Tactics, Strategy, Combat, Violence, Gun, Rifle, Shooting, Recon, Secret, Top Secret, Clearance, Intelligence, Fitness, Land Navigation, Hiking, Teamwork, Clandestine, Covert, Black Ops, SOCOM, Special Operations"
+    
+  },
+
+
+  {
+    "id": 13,
+    "name": "Security Forces",
+    "description": "As the largest career field in the Air Force, it’s the job of Security Forces to protect, defend and fight. They are responsible for missile security, defending air bases around the globe, law enforcement on those bases, combat arms and handling military working dogs. It takes a combination of mental and physical toughness because it’s up to you to protect your fellow Airmen.",
+    "keywords": "Police, Cop, Patrol, Gaurd, Security, Gun, Jail, Weapon, Radio, Communication, Riot, Crowd Control, Protection, Detention, Prisoner"
+    },
+
+
+  {
+    "id": 14,
+    "name": "CBRN Defense Specialist",
+    "description": "Within the Marine Corps there are specialists charged with training others to survive in an environment where there may be chemical, biological, radiological or nuclear (CBRN) threats. When any of these hazards are present, CBRN defense specialists know what protective measures to take in combat and other situations, and they train other Marine personnel in these techniques.",
+    "keywords": "Anthrax, Radiation, Poison, Mustard, Gas, Serin"
+  },
+
+
+  {
+    "id": 15,
+    "name": "Chaplain",
+    "description": "The Navy Chaplain Corps comprises more than 800 Navy Chaplains from more than 100 different faith groups, including Christian, Jewish, Muslim, Buddhist and many others. Each Chaplain is also a Navy Officer – meaning each holds an important leadership role. Chaplains offer everything from faith leadership to personal advice to much-needed solace.",
+    "keywords": "Religion, Spiritual, God, Faith, Support, Emotion, Prayer, Church, Congregation, Preach, Pastor, Funeral, Wedding, Advice, Guidance"
+  }
+]
